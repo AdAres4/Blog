@@ -5,6 +5,10 @@
 	border-radius: 3px;
 }
 
+div {
+	background-color: grey;
+}
+
 .all-text {
 	font-family: Open Sans, sans-serif;
 	background-color: black;
